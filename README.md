@@ -23,9 +23,11 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+<html>
+<body>
+<img src=”images/logo.png” alt=”some text” width=300 height=200>
+</body>
+</html>
 ```
 
 For more details see [BootCampSintra.com](https://www.youtube.com/watch?v=PlsofEgCCxk).
