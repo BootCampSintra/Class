@@ -32,7 +32,9 @@ For more details see [BootCampSintra.com](https://www.youtube.com/watch?v=PlsofE
 
 ### Students
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BootCampSintra/class/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<script type="text/javascript" src="jarquivo.js"></script>
+console.log("Douglas");
+<link rel="stylesheet" type="text/css/" href="arquivo,css">
 
 ### Support or Contact
 
