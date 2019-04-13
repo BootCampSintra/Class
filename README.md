@@ -1,6 +1,6 @@
 ## Welcome to BootCamp Sintra
 
-You can use the [video ] (https://www.youtube.com/watch?v=PlsofEgCCxk)  to visualize the best project of life.
+You can use the [video ](https://www.youtube.com/watch?v=PlsofEgCCxk)  to visualize the best project of life.
 
 Well, I can not say bad about this class, because it's the best class anyone could have.
 Although our behaviors are not the best, we are a very close-knit group which makes it a great group, because in spite of everything we support each other.
