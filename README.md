@@ -19,11 +19,7 @@ first class of Sintra of the year 2019
  
 <html>
 
-  <head>
-      <title> Usando a tag <img> </title>
-      <meta name="description" content="Como usar uma imagem em um site">
-      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  </head>
+ 
  
   <body>
       <img src="https://i1.wp.com/prescott-bootcamp.com/wp-content/uploads/2017/03/bootcamp-train-hard.png?fit=450%2C450&ssl=1">
