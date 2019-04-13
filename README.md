@@ -6,7 +6,7 @@ Well, I can not say bad about this class, because it's the best class anyone cou
 Although our behaviors are not the best, we are a very close-knit group which makes it a great group, because in spite of everything we support each other.
 This year is a last one where we will all be together, it will be very difficult, to separate us, we are already so used to each other, for me this group is a great family.
 
-### Markdown
+### Information
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -30,7 +30,7 @@ Syntax highlighted code block
 
 For more details see [BootCampSintra.com](https://www.youtube.com/watch?v=PlsofEgCCxk).
 
-### Jekyll Themes
+### Students
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BootCampSintra/class/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
