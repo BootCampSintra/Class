@@ -43,4 +43,4 @@ For more details see [BootCampSintra.com](https://www.youtube.com/watch?v=PlsofE
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://www.youtube.com/watch?v=5oMmexzbK7c) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://www.youtube.com/watch?v=5oMmexzbK7c) or [contact support](https://www.youtube.com/watch?v=5oMmexzbK7c) and we’ll help you sort it out.
