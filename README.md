@@ -32,9 +32,20 @@ For more details see [BootCampSintra.com](https://www.youtube.com/watch?v=PlsofE
 
 ### Students
 
-<script type="text/javascript" src="jarquivo.js"></script>
-console.log("Douglas");
-<link rel="stylesheet" type="text/css/" href="arquivo,css">
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <script>
+        var numero1 = parseInt(prompt("Digite um numero"));
+var numero2 = parseInt(prompt("Digite outro numero"));
+var soma = numero1 + numero2;
+
+alert("A some é : "+soma);
+        </script>
+    </body>
+</html>
 
 ### Support or Contact
 
