@@ -2,7 +2,9 @@
 
 You can use the [editor on GitHub](https://github.com/BootCampSintra/class/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Well, I can not say bad about this class, because it's the best class anyone could have.
+Although our behaviors are not the best, we are a very close-knit group which makes it a great group, because in spite of everything we support each other.
+This year is a last one where we will all be together, it will be very difficult, to separate us, we are already so used to each other, for me this group is a great family.
 
 ### Markdown
 
