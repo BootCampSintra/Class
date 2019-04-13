@@ -31,19 +31,6 @@ Syntax highlighted code block
 For more details see [BootCampSintra.com](https://www.youtube.com/watch?v=PlsofEgCCxk).
 
 ### Students
-[Douglas](<html>
-    <head>
-    </head>
-    <body>
-        <script>
-alert("A some é : "+soma);
-        </script>
-    </body>
-</html>
-)
-[Priscila]
-[Liliane]
-
 
 
 <html>
@@ -51,6 +38,7 @@ alert("A some é : "+soma);
     </head>
     <body>
         <script>
+            console.log("Douglas");
         var numero1 = parseInt(prompt("Digite um numero"));
 var numero2 = parseInt(prompt("Digite outro numero"));
 var soma = numero1 + numero2;
