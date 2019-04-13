@@ -8,10 +8,8 @@ This year is a last one where we will all be together, it will be very difficult
 
 ### Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+first class of Sintra of the year 2019
 
 # students 1
 ## teachers 2
@@ -44,8 +42,8 @@ For more details see [BootCampSintra.com](https://www.youtube.com/watch?v=PlsofE
         <input type="text" id="Douglas" />
     </div>
     <div>
-        <label for="Priscila">Priscil:</label>
-        <input type="text" id="Priscil" />
+        <label for="Priscila">Priscila:</label>
+        <input type="text" id="Priscila" />
     </div>
     <div>
         <label for="Liliane">Liliane:</label>
