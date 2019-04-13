@@ -33,20 +33,20 @@ For more details see [BootCampSintra.com](https://www.youtube.com/watch?v=PlsofE
 ### Students
 
 
-<html>
-    <head>
-    </head>
-    <body>
-        <script>
-            console.log("Douglas");
-        var numero1 = parseInt(prompt("Digite um numero"));
-var numero2 = parseInt(prompt("Digite outro numero"));
-var soma = numero1 + numero2;
-
-alert("A some é : "+soma);
-        </script>
-    </body>
-</html>
+<form action="/pagina-processa-dados-do-form" method="post">
+    <div>
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" />
+    </div>
+    <div>
+        <label for="email">E-mail:</label>
+        <input type="email" id="email" />
+    </div>
+    <div>
+        <label for="msg">Mensagem:</label>
+        <textarea id="msg"></textarea>
+    </div>
+</form>
 
 ### Support or Contact
 
