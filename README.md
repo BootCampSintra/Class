@@ -31,7 +31,16 @@ Syntax highlighted code block
 For more details see [BootCampSintra.com](https://www.youtube.com/watch?v=PlsofEgCCxk).
 
 ### Students
-[Douglas]
+[Douglas](<html>
+    <head>
+    </head>
+    <body>
+        <script>
+alert("A some é : "+soma);
+        </script>
+    </body>
+</html>
+)
 [Priscila]
 [Liliane]
 
