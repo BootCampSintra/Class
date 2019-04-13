@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to BootCamp Sintra
 
 You can use the [editor on GitHub](https://github.com/BootCampSintra/class/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# students 1
+## teachers 2
+### coordinators 3
 
 - Bulleted
 - List
