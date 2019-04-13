@@ -31,6 +31,10 @@ Syntax highlighted code block
 For more details see [BootCampSintra.com](https://www.youtube.com/watch?v=PlsofEgCCxk).
 
 ### Students
+[Douglas]
+[Priscila]
+[Liliane]
+
 
 
 <html>
