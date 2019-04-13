@@ -17,13 +17,7 @@ Syntax highlighted code block
 ## teachers 2
 ### coordinators 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-<!DOCTYPE html>
  
 <html>
 
