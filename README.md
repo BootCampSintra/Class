@@ -38,14 +38,7 @@ For more details see [BootCampSintra.com](https://www.youtube.com/watch?v=PlsofE
         <label for="Douglas">Douglas:</label>
         <input type="text" id="Douglas" />
     </div>
-    <div>
-        <label for="email">E-mail:</label>
-        <input type="email" id="email" />
-    </div>
-    <div>
-        <label for="msg">Mensagem:</label>
-        <textarea id="msg"></textarea>
-    </div>
+   
 </form>
 
 ### Support or Contact
