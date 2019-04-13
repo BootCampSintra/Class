@@ -35,8 +35,8 @@ For more details see [BootCampSintra.com](https://www.youtube.com/watch?v=PlsofE
 
 <form action="/pagina-processa-dados-do-form" method="post">
     <div>
-        <label for="nome">Nome:</label>
-        <input type="text" id="nome" />
+        <label for="Douglas">Douglas:</label>
+        <input type="text" id="Douglas" />
     </div>
     <div>
         <label for="email">E-mail:</label>
