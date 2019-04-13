@@ -32,7 +32,7 @@ For more details see [BootCampSintra.com](https://www.youtube.com/watch?v=PlsofE
 
 ### Students
 
-<!DOCTYPE html>
+
 <html>
     <head>
     </head>
