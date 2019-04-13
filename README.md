@@ -38,6 +38,14 @@ For more details see [BootCampSintra.com](https://www.youtube.com/watch?v=PlsofE
         <label for="Douglas">Douglas:</label>
         <input type="text" id="Douglas" />
     </div>
+    <div>
+        <label for="Priscila">Priscil:</label>
+        <input type="text" id="Priscil" />
+    </div>
+    <div>
+        <label for="Liliane">Liliane:</label>
+        <input type="text" id="Liliane" />
+    </div>
    
 </form>
 
