@@ -5,7 +5,7 @@
     <body>
         <script>
 var nome=prompt("Entre com seu nome :");
-console.log(nome);
+alert("Douglas");
 </script>
  </body>       
     
