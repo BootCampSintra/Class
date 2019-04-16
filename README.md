@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <script>
+var nome=prompt("Entre com seu nome :");
+console.log(nome);
+</script>
+ </body>       
+    
+</html>
 ## Welcome to BootCamp Sintra
 
 You can use the [video ](https://www.youtube.com/watch?v=PlsofEgCCxk) to visualize the best project of life.
@@ -47,6 +59,7 @@ For more details see [BootCampSintra.com](https://www.youtube.com/watch?v=PlsofE
     </div>
    
 </form>
+
 
 ### Support or Contact
 
